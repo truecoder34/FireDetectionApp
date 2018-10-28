@@ -7,10 +7,16 @@ Idea of our app:
 app idea is to efficiently and rapidly determine wildfires and notify nearby people.  You can see all the wildfires aggregated from NASA satelites API aswell as add you own with pictures and geodata. Each picture is checking with neural net assigning confidence percentage. In case you are just uploading selfie
 
 Our stack is:
+
 Mobile-app : React Native
+
 Web-app : Angular
+
 Back-end : Azure, Java
+
 Logic of application : Pthon
+
 Data Scince : Pandas, Keras, TensorFlow
+
 
 
